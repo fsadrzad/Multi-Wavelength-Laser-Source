@@ -6,3 +6,5 @@ in hyperspectral imaging. Having individually adjustible monochromatic sources, 
 generate an image of the sample that can constitude a colour channel. Three generations of laser sources were developed. The first generation lacked coupling stability. The 
 second prototype had subpar laser drivers, thus destroyed all of the diodes. The third generation was relatively successful. The unit has a user-friendly GUI that allows the
 user to effectively adjust the brightness and the on/off state of each diode. 
+
+Demo: https://youtu.be/Jh7JAQfpDOU
